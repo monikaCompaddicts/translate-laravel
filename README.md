@@ -1,4 +1,4 @@
-<!-- logo -->
+﻿<!-- logo -->
 <img src="https://cdn.weglot.com/logo/logo-hor.png" height="40" />
 
 # Laravel Package
@@ -15,7 +15,7 @@ Seamless integration of Weglot into your Laravel project.
 ## Requirements
 - PHP version 5.5 and later
 - Laravel 5.*
-- Weglot API Key, starting at [free level](https://dashboard.weglot.com/register?origin=7)
+- Weglot API Key, starting at [free level](https://dashboard.weglot.com/register?origin=7) kk
 
 ## Installation
 You can install the library via [Composer](https://getcomposer.org/). Run the following command:
